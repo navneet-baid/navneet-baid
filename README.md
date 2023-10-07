@@ -36,7 +36,7 @@
   - ⚡ In my free time, I enjoy coding, exploring new technologies, and staying updated with the latest developments in the tech world.
 </p>
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left">🧑‍💻 Languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
