@@ -16,17 +16,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=navneet-baid.navneet-baid&"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  My name is Navneet Baid, and I am currently pursuing my BCA from GGSIPU University. I reside in Delhi, India. Here's a bit about me:<br><br>
+  
+  - 🔭 I am currently working as an Android App & Websites Developer as a Freelancer.<br>
+  - 📚 I recently completed my MERN Stack training, and I'm eager to apply my skills to real-world projects.<br>
+  - ⚡ In my free time, I enjoy coding, exploring new technologies, and staying updated with the latest developments in the tech world.
+</p>
 
 <h3 align="left">🛠 Languages</h3>
 
