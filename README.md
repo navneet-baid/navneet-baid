@@ -20,16 +20,17 @@
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=navneet-baid.navneet-baid&"  />
+</div>
 
 ###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneet-baid" alt="navneet-baid" /></a> </p>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=navneet-baid.navneet-baid&"  />
-</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -89,7 +90,7 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneet-baid&show_icons=true&locale=en&layout=compact" alt="navneet-baid" /></div>
 ###
 
 <div align="center">
